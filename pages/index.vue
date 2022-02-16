@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <div>
+      <HeadSwipe></HeadSwipe>
+    </div>
+    <div>
+      <HeadText></HeadText>
+    </div>
+    <div>
+      <HeadProduct></HeadProduct>
+    </div>
+    <div>
+      <HeadGouwu></HeadGouwu>
+    </div>
+    <div>
+      <HeadFour></HeadFour>
+    </div>
+    <div>
+      <HeadTheme></HeadTheme>
+    </div>
+  </div>
+</template>
